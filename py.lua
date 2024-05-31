@@ -151,7 +151,7 @@ local function sniperCheck()
                 BUY_ANY_TITANIC_PRICE = 1000000000,
 
                 BUY_CUSTOM = {
-                        {Class = "Misc", Item = {id = "Tech Key"}, Cost = 58000},
+                        {Class = "Misc", Item = {id = "Tech Key"}, Cost = 54000},
                 },
 
                 MIN_CANDIDATES = 3, -- (for stats tracker)
